@@ -1,9 +1,9 @@
 ## Hello!
 
-Growing up I had so many different passions. Music, sports, video games, etc. I was always wondering how I could continue to pursue these passions and turn them into a carrer. 
-This is how I discovered coding and the world of Computer Science. When I made my first personal project I wanted to base it all around my favorite songs. Now, I am continuing to find ideas and I want to make even more projects revolving around my interests.
+Growing up, I had so many different passions. Music, sports, video games, etc. I was always wondering how I could continue to pursue these passions and turn them into a career. 
+This is how I discovered coding and the world of Computer Science. When I made my first personal project, I wanted to base it all around my favorite songs. Now, I am continuing to find ideas, and I want to make even more projects revolving around my interests.
 
-As a sophmore in college I am still devolping my coding skills and learning more all the time. In school I have learned **Python, C++,** and **C** as my primary coding skills. The coursework includes **Memory Allocation in C, Data Structures, Statistics for Engineers, Linear Algabra,** and **Differential Equations** I am on track to graduate in **Spring 2028** Currently I am trying to learn SQL and Java outside of class. I am looking for an internship for Summer 2026.
+As a sophomore in college, I am still developing my coding skills and learning more all the time. In school, I have learned **Python, C++,** and **C** as my primary coding skills. The coursework includes **Memory Allocation in C, Data Structures, Statistics for Engineers, Linear Algabra,** and **Differential Equations** I am on track to graduate in **Spring 2028** Currently I am trying to learn SQL and Java outside of class. I am looking for an internship for Summer 2026.
 
 I am currently working on my SpotRatings project! You can find it linked on my profile or click here -> https://github.com/jgweint18/SpotRatings
 <!--
